@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook_Galkin", "PhoneBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassModulee", "..\ClassModulee\ClassModulee.csproj", "{8CF55487-0FEB-4BC8-B0D0-FBF25F9B11CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassConnection", "..\ClassConnection\ClassConnection.csproj", "{A0E79A33-76C3-4766-BDB6-3B7242AFBAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8CF55487-0FEB-4BC8-B0D0-FBF25F9B11CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CF55487-0FEB-4BC8-B0D0-FBF25F9B11CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CF55487-0FEB-4BC8-B0D0-FBF25F9B11CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E79A33-76C3-4766-BDB6-3B7242AFBAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E79A33-76C3-4766-BDB6-3B7242AFBAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E79A33-76C3-4766-BDB6-3B7242AFBAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E79A33-76C3-4766-BDB6-3B7242AFBAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
